@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/webChat/static/css/main.fc1fd91e.css",
-    "main.js": "/webChat/static/js/main.bf377ccf.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/webChat/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/webChat/index.html",
-    "main.fc1fd91e.css.map": "/webChat/static/css/main.fc1fd91e.css.map",
-    "main.bf377ccf.js.map": "/webChat/static/js/main.bf377ccf.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/webChat/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/Web-Chat-App/static/css/main.fc1fd91e.css",
+    "main.js": "/Web-Chat-App/static/js/main.9ceba700.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Web-Chat-App/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/Web-Chat-App/index.html",
+    "main.fc1fd91e.css.map": "/Web-Chat-App/static/css/main.fc1fd91e.css.map",
+    "main.9ceba700.js.map": "/Web-Chat-App/static/js/main.9ceba700.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Web-Chat-App/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc1fd91e.css",
-    "static/js/main.bf377ccf.js"
+    "static/js/main.9ceba700.js"
   ]
 }
