@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(212, 211, 211);
+}
+.heading{
+    text-align: center;
+    margin: 10px;
+}
+.name{
+    padding: 5px;
+    margin: 10px;
+}
+.all{
+    font-size: 23px;
+}
+.btn{
+    padding: 8px;
+    width: 15%;
+    margin: 10px;
+    background-color: darkblue;
+    font-weight: bold;
+    color: rgb(228, 227, 227);
+    border: 0px;
+    border-radius: 10px;
+}
+.li{
+    text-align: center;
+    font-size: 20px;
+}
