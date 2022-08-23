@@ -1,16 +1,20 @@
 import { SEND_MESSAGE } from "../actions/actionTypes";
-const initialState ={
-    sendMsg:""
+// Initial value of State
+const initialState = {
+    sendMsg: ""
 }
-
-const sendMsg = ( state=initialState, action )=>{
-    if(action.type === SEND_MESSAGE){
-        return{
+// When Sending message method is run
+const sendMsg = (state = initialState, action) => {
+    // When value matches the condition
+    if (action.type === SEND_MESSAGE) {
+        return {
+            // The new state is created
             ...state,
             sendMsg: action.sendMsg
         }
     }
-    else{
+    else {
+        // If no matches return initial values
         return state
     }
 }

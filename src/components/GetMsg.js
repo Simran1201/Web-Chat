@@ -43,9 +43,8 @@ function GetMsg() {
           arr: array
         })
       }
-    }
-    // eslint-disable-next-line
-  }, [])
+    }    
+  })
 
   return (
     <div className={`${styles.msg}`}>
